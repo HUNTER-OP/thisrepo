@@ -1,5 +1,5 @@
 console.log("YES")
-//very good ok ok got itok ok
+//very good ok ok got itok okf
 const config = {
-    GITHUB_KEY:"FAFINAL-VERYVERY-my-super-secret-key-123"
+    GITHUB_KEY:"gFAFINAL-VERYVERY-my-super-secret-key-123"
 };
