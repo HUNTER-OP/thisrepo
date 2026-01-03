@@ -1,5 +1,5 @@
 console.log("YES")
-//
+//ok
 const config = {
-    GITHUB_KEY:"INAL-VERYVERY-my-super-secret-key-123"
+    GITHUB_KEY:"grINAL-VERYVERY-my-super-secret-key-123"
 };
